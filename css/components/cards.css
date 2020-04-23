@@ -1,0 +1,27 @@
+.adventures h2{
+  padding: 16px;
+}
+.text-center {
+  text-align: center;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card img {
+  height: 150px;
+  width: 200px;
+}
+
+.card p {
+  opacity: .8;
+}
